@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="C:/Users/dsfink/workspace/GGP_Base/bin"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/FlyingSaucer/core-renderer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/JFreeChart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/JFreeChart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/JTidy/Tidy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/JGoodiesForms/forms-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/Jython/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dsfink/workspace/GGP_Base/src/external/Clojure/clojure.jar"/>
+	<classpathentry kind="con" path="C:/usr/share/java/junit4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
