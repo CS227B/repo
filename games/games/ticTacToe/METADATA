@@ -1,9 +1,0 @@
-{
-  "gameName": "Tic-Tac-Toe",
-  "numRoles": 2,
-  
-  "user_interface": "ticTacToe.js",
-  "rulesheet": "ticTacToe.kif",
-  "stylesheet": "ticTacToe.xsl",
-  "description": "ticTacToe.txt"
-}
